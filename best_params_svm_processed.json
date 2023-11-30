@@ -1,0 +1,122 @@
+[
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "rbf",
+    "test_size": 0.15
+  },
+  {
+    "C": 1,
+    "gamma": 0.1,
+    "kernel": "rbf",
+    "test_size": 0.15
+  },
+  {
+    "C": 1,
+    "gamma": 0.1,
+    "kernel": "sigmoid",
+    "test_size": 0.15
+  },
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "rbf",
+    "test_size": 0.15
+  },
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "sigmoid",
+    "test_size": 0.15
+  },
+  {
+    "C": 1,
+    "gamma": 1,
+    "kernel": "poly",
+    "test_size": 0.2
+  },
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "rbf",
+    "test_size": 0.2
+  },
+  {
+    "C": 10,
+    "gamma": 0.01,
+    "kernel": "rbf",
+    "test_size": 0.2
+  },
+  {
+    "C": 0.1,
+    "gamma": 1,
+    "kernel": "sigmoid",
+    "test_size": 0.2
+  },
+  {
+    "C": 1,
+    "gamma": 0.1,
+    "kernel": "sigmoid",
+    "test_size": 0.2
+  },
+  {
+    "C": 1,
+    "gamma": 0.1,
+    "kernel": "rbf",
+    "test_size": 0.25
+  },
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "sigmoid",
+    "test_size": 0.25
+  },
+  {
+    "C": 1,
+    "gamma": 0.1,
+    "kernel": "sigmoid",
+    "test_size": 0.25
+  },
+  {
+    "C": 1,
+    "gamma": 0.1,
+    "kernel": "sigmoid",
+    "test_size": 0.25
+  },
+  {
+    "C": 10,
+    "gamma": 0.01,
+    "kernel": "sigmoid",
+    "test_size": 0.25
+  },
+  {
+    "C": 10,
+    "gamma": 0.01,
+    "kernel": "sigmoid",
+    "test_size": 0.3
+  },
+  {
+    "C": 1,
+    "gamma": 1,
+    "kernel": "poly",
+    "test_size": 0.3
+  },
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "sigmoid",
+    "test_size": 0.3
+  },
+  {
+    "C": 100,
+    "gamma": 0.1,
+    "kernel": "rbf",
+    "test_size": 0.3
+  },
+  {
+    "C": 100,
+    "gamma": 0.001,
+    "kernel": "sigmoid",
+    "test_size": 0.3
+  }
+]
